@@ -1,5 +1,5 @@
 context:
-  version: "1.11.0"
+  version: "1.11.1"
 
 package:
   name: hereby
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://registry.npmjs.org/hereby/-/hereby-${{ version }}.tgz
-  sha256: b6c8cac379d9c9a8ccec2f6a151b75c57d45e49a15ce34e756daeb66bf1a8a5c
+  sha256: 00c57f3e12be49eb71e21055e9c935c58bd4504cd0320a3b9c298273f337ff31
 
 build:
   number: 0
